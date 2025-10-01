@@ -1,3 +1,0 @@
-Não deveria ir para o git.
-
-no .gitignore você coloca os arquivos que é para o git ignorar.
